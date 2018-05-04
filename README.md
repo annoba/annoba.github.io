@@ -7,4 +7,8 @@
 - sidebar menu: add a close action when opened
 - clean up the code a bit more
 - make it work with IE 10 (and maybe older?)
+<<<<<<< HEAD
 - test on Safari Browser
+=======
+- test on Safari Browser
+>>>>>>> 80ae14459e2449bd4ffe8bb94a57089acec529ee
